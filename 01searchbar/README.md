@@ -6,7 +6,7 @@ A simple animated search bar that expands when clicked. Created using HTML and C
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://abhijitsinha-dev.github.io/Search-Bar/01searchbar/)
+[View Live Demo](https://abhijitsinha-dev.github.io/components/01searchbar/)
 
 ## 🛠️ What I Used
 
