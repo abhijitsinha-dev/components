@@ -4,7 +4,7 @@
 
 A responsive card slider built using Swiper.js with smooth transitions, navigation buttons, and pagination.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)]()
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://abhijitsinha-dev.github.io/components/03Card_Slider/)
 
 ## Features
 
