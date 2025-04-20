@@ -1,6 +1,8 @@
 # Card Slider with Swiper.js
 
-<video src="./Preview.mp4" autoplay muted></video>
+<video src="https://github.com/abhijitsinha-dev/components/raw/main/03Card_Slider/Preview.mp4" autoplay muted></video>
+
+<!-- ![Project Preview](https://github.com/abhijitsinha-dev/components/raw/main/03Card_Slider/Preview.mp4) -->
 
 A responsive card slider built using Swiper.js with smooth transitions, navigation buttons, and pagination.
 
